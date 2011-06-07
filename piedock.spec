@@ -1,11 +1,11 @@
 Summary:	A task bar and application launcher in shape of a pie menu
 Name:		piedock
-Version:	1.2.2
+Version:	1.3.0
 Release:	0.1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://www.markusfisch.de/downloads/PieDock-%{version}.tar.bz2
-# Source0-md5:	75a2d37cc9badd2f6888a834a623026b
+# Source0-md5:	ce7005f9aac32344e90f24eb417a348c
 URL:		http://www.markusfisch.de/PieDock
 BuildRequires:	freetype-devel
 BuildRequires:	xorg-lib-libXft-devel
